@@ -1,2 +1,2 @@
 import requests
-from pytextbelt import Textbelt
+from . import Textbelt
